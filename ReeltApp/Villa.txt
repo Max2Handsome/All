@@ -1,0 +1,10 @@
+Villa
+
+	city Ch
+	address bg/22
+	country Md
+
+	currensy $
+	quantity 30000
+	rules NO RULES
+	Area  488.00
